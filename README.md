@@ -9,7 +9,7 @@ FILES
 
 Keep the MATLAB scripts and required supporting functions on the MATLAB path. The scripts call functions including fv1, fv, fm, fn, fh, and nmj2, which are not included in these two files. MATLAB functions findpeaks, square, and resample are also used.
 
-STEP 1 — GENERATE ACTION POTENTIALS
+STEP 1 — GENERATE ACTION POTENTIALS (The axon model was adapted from FRIBANCE, S., WANG, J., ROPPOLO, J. R., DE GROAT, W. C. & TAI, C. 2016. Axonal model for temperature stimulation. J Comput Neurosci, 41, 185-92.)
 -----------------------------------
 Open run_axon_output.m and adjust these three settings consistently:
 
